@@ -13,8 +13,6 @@ class Product{
      * abstraction is used to hide details from the user => 
      * this can be used via access modifiers
      */
-     
-
 }
 
 let p = new Product();
